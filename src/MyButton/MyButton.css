@@ -1,0 +1,22 @@
+.btn {
+  padding: 10px 5px;
+  font-size: 20px;
+  color: black;
+  border: 1px solid black;
+  background: transparent;
+}
+
+.small {
+  padding: 5px;
+  font-size: 15px;
+}
+
+.medium {
+  padding: 10px 5px;
+  font-size: 20px;
+}
+
+.large {
+  padding: 20px 10px;
+  font-size: 25px;
+}
